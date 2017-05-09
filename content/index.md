@@ -8,7 +8,7 @@ cta:
   link: "about"
 ---
 
-Hi there. Before having fun with Phenomic, be sure to read the documentation :
+Hello there. Before having fun with Phenomic, be sure to read the documentation :
 
 * [How to setup a new project with Phenomic](https://phenomic.io/docs/setup/)
 * [Getting Started with Phenomic](https://phenomic.io/docs/getting-started/)
